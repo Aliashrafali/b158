@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #EEE;
+}
+.cards{
+    height: 350px;
+    background-color: #fff;
+    margin-top: 5%;
+    border-radius: 7px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
